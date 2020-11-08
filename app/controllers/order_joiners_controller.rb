@@ -1,0 +1,2 @@
+class OrderJoinersController < ApplicationController
+end

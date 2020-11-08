@@ -1,0 +1,2 @@
+class CartJoinersController < ApplicationController
+end
