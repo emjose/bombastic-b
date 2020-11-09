@@ -4,7 +4,7 @@ class UserSerializer < ActiveModel::Serializer
 
   has_many :reviews
   has_one :cart
-  #has_many :orders
+  has_many :orders
   
   def orders
     self.object.orders.map do |order|
