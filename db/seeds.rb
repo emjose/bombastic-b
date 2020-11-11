@@ -43,8 +43,8 @@ emmanuel = User.create(username: "Emmanuel", password: "abc123")
 title_noshow = "No Show Socks"
 title_ankle = "Ankle Socks"
 title_quarter = "Quarter-High Socks"
-title_calf = "Calf-high Socks"
-title_knee = "Knee-high Socks"
+title_calf = "Calf-High Socks"
+title_knee = "Knee-High Socks"
 # title_casual (category: casual [or cat_casual] already exists, do not use "casual socks" as title)
 # the following titles are also category qualities
 title_athletic = "Athletic Socks"
