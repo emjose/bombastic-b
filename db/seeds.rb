@@ -58,47 +58,27 @@ title_pride = "Pride Socks"
 
 # desc = 
 
-desc_noshow = "Like other Bombas, our No Shows are designed for comfort while being specially engineered to never fall down. They provide maximum coverage and stay in place just below the edge of your shoe, exactly where they're supposed to be. The best-looking socks no one will ever know you're wearing.
-
-As always, One purchased = One donated."
+desc_noshow = "Like other Bombas, our No Shows are designed for comfort while being specially engineered to never fall down. They provide maximum coverage and stay in place just below the edge of your shoe, exactly where they're supposed to be. The best-looking socks no one will ever know you're wearing."
 
 desc_ankle = "This is the original. The first pair of socks we made, and still one of our best sellers. Two years of R & D helped us design it with key comfort innovations like honeycomb arch support, a seamless toe, and stay-up technology. The first socks to which we could say ‘One pair purchased = One pair donated’, which is still true to this day."
 
-desc_quarter = "Not too long, and not too short, these Quarters are engineered for comfort and designed to stand out. Higher than a Bombas ankle sock, lower than a Bombas calf sock, just right for a million different shoes, styles, looks. sports, activities and lazy Sundays.
+desc_quarter = "Not too long, and not too short, these Quarters are engineered for comfort and designed to stand out. Higher than a Bombas ankle sock, lower than a Bombas calf sock, just right for a million different shoes, styles, looks. sports, activities and lazy Sundays."
 
-As always, One Purchased = One Donated."
+desc_calf = "Keep it simple or shine brightly with the most comfortable socks in the history of feet, available in an array of colors and patterns. Easy everyday socks that are the unsung heroes of your sock drawer."
 
-desc_calf = "Keep it simple or shine brightly with the most comfortable socks in the history of feet, available in an array of colors and patterns. Easy everyday socks that are the unsung heroes of your sock drawer.
+desc_knee = "More coverage = more cozy. We made these socks extra tall, resting just below your knee to keep your legs snug under even your tallest boots. Even at that height, stay-up technology keeps them from ever slipping down or bunching up. They're also great for cozying up on the couch and watching long movies in."
 
-As always, One purchased = One donated."
+desc_athletic = "Lightweight, purpose-built socks for running, working out and movement. Bombas Hex Tec construction for breathability and moisture-wicking. Proprietary poly/cotton blend yarns. With comfort innovations like strategic zone cushioning and airflow ventilation. Specially designed to help you move with grace and speed."
 
-desc_knee = "More coverage = more cozy. We made these socks extra tall, resting just below your knee to keep your legs snug under even your tallest boots. Even at that height, stay-up technology keeps them from ever slipping down or bunching up. They're also great for cozying up on the couch and watching long movies in.
+desc_dress = "Dress them up, dress them down. This is modern dress comfort, with a cushioned footbed and our proprietary Honeycomb Arch Support. Classic dress sock styles with an updated feel to keep you on your feet all day."
 
-As always, One purchased = One donated."
+desc_hiking = "Full-cushion hiking socks intelligently engineered for hiking comfort with Hex Tec technology– Thermoregulating ventilation to keep you cool in the summer and warm in the winter, and moisture-wicking innovation to keep your feet comfortable on all your outdoor adventures, year-round."
 
-desc_athletic = "Lightweight, purpose-built socks for running, working out and movement. Bombas Hex Tec construction for breathability and moisture-wicking. Proprietary poly/cotton blend yarns. With comfort innovations like strategic zone cushioning and airflow ventilation. Specially designed to help you move with grace and speed. 
+desc_comp = "Our compression socks are made to give you a little lower-limb blood flow boost, whether you’re training hard, have a long flight, or just want to enjoy the extra support of a tighter-fitting sock designed to the Bombas level of quality and comfort. Included: Pack of 3 pairs."
 
-As always, One purchased = One donated."
+desc_pack = "Get your dream sock drawer: filled with comfortable Bombas. Live your life filled with way more color, way more comfort, and a lot less time spent doing laundry.  What's better than one pair of socks? A pack of socks!"
 
-desc_dress = "Dress them up, dress them down. This is modern dress comfort, with a cushioned footbed and our proprietary Honeycomb Arch Support. Classic dress sock styles with an updated feel to keep you on your feet all day.
-
-As always, One purchased = One donated."
-
-desc_hiking = "Full-cushion hiking socks intelligently engineered for hiking comfort with Hex Tec technology– Thermoregulating ventilation to keep you cool in the summer and warm in the winter, and moisture-wicking innovation to keep your feet comfortable on all your outdoor adventures, year-round. 
-
-As always, One purchased = One donated."
-
-desc_comp = "Our compression socks are made to give you a little lower-limb blood flow boost, whether you’re training hard, have a long flight, or just want to enjoy the extra support of a tighter-fitting sock designed to the Bombas level of quality and comfort. Included: Pack of 3 pairs. 
-
-As always, One purchased = One donated."
-
-desc_pack = "Get your dream sock drawer: filled with comfortable Bombas. Live your life filled with way more color, way more comfort, and a lot less time spent doing laundry.  What's better than one pair of socks? A pack of socks!
-
-As always, One purchased = One donated."
-
-desc_pride = "There are so many ways to show your pride, but we love letting these rainbow socks do the talking. This pack of socks is a constant, comfy reminder to live colorfully, live boldly, and always be true to yourself.
-
-As always, One purchased = One donated."
+desc_pride = "There are so many ways to show your pride, but we love letting these rainbow socks do the talking. This pack of socks is a constant, comfy reminder to live colorfully, live boldly, and always be true to yourself."
 
 #price = 
 
