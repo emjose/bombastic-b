@@ -32,9 +32,15 @@
 
 -   Bombastic is a mock e-commerce app inspired by the [Bombas](https://bombas.com/) apparel brand.
 
--   Bombas has a one purchased, one donated business model.
+-   Bombas has a [one purchased, one donated](https://bombas.com/pages/giving-back?campignid=1392646001&adgroupid=54889553717&targetid=kwd-300272104456&matchtype=b&network=g&device=c&keywords=%2Bbombas&creative=597211240056&gclid=CjwKCAjww8mWBhABEiwAl6-2Rf62a6fGVfHkT6iwJzB0GyxsjRgync2nfUROlT1dQ8h1NNeeoFtGzRoCsHoQAvD_BwE) business model.
 
--   More README content to be added soon!
+-   Bombastic implements the [Stripe API](https://stripe.com/docs/keys) for mock purchases.
+
+-   **Backend:** Ruby and Rails
+
+-   **Frontend:** React and Redux
+
+-   **More README content to be added soon!**
 
 #
 
@@ -98,19 +104,33 @@ gem install Rails
 brew install postgresql
 ```
 
-**5. Git clone and cd into the folder.**
+**5. On Chrome browser, install and enable the [JSON formatter extension](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en).**
+
+**6. Git clone and cd into the folder.**
 
 ```
 git clone git@github.com:emjose/bombastic-b.git && cd bombastic-b
 ```
 
-**6. Install dependencies.**
+**7. Create a [Stripe account](https://medium.com/@gaidaescobar/using-stripe-api-with-react-and-ruby-b50c533a697f) and retrieve Stripe API key.**
+
+**8. Create .env file in the main project directory.**
+
+See this detailed [article](https://medium.com/@gaidaescobar/using-stripe-api-with-react-and-ruby-b50c533a697f) for Stripe API implementation.
+
+**9. Paste Stripe API variable in the .env file, with your secret Stripe API key in quotes.**
+
+```
+STRIPE_API_KEY = "insert your secret key here"
+```
+
+**10. Install dependencies.**
 
 ```
 bundle install
 ```
 
-**7. Create Rails database, migrations, and seed data.**
+**11. Create Rails database, migrations, and seed data.**
 
 ```
 rails db:create
@@ -118,15 +138,13 @@ rails db:migrate
 rails db:seed
 ```
 
-**8. Launch the Rails server (best viewed on Chrome browser).**
+**12. Launch the Rails server (best viewed on Chrome browser).**
 
 ```
 rails s -p 3000
 ```
 
-**9. On Chrome browser, install and enable the [JSON formatter extension](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en).**
-
-**10. On Chrome browser, view the JSON database on http://localhost:3000/items**
+**13. On Chrome browser, view the JSON database on http://localhost:3000/items**
 
 <!-- #
 
