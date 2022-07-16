@@ -114,11 +114,9 @@ git clone git@github.com:emjose/bombastic-b.git && cd bombastic-b
 
 **7. Create a [Stripe account](https://medium.com/@gaidaescobar/using-stripe-api-with-react-and-ruby-b50c533a697f) and retrieve Stripe API key.**
 
-**8. Create .env file in the main project directory.**
+**8. Create `.env` file in the main project directory.** See detailed [article](https://medium.com/@gaidaescobar/using-stripe-api-with-react-and-ruby-b50c533a697f) for Stripe API implementation.
 
-See this detailed [article](https://medium.com/@gaidaescobar/using-stripe-api-with-react-and-ruby-b50c533a697f) for Stripe API implementation.
-
-**9. Paste Stripe API variable in the .env file, with your secret Stripe API key in quotes.**
+**9. Paste Stripe API variable in the `.env` file, with your secret Stripe API key in quotes.**
 
 ```
 STRIPE_API_KEY = "insert your secret key here"
