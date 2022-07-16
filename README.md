@@ -118,15 +118,15 @@ rails db:migrate
 rails db:seed
 ```
 
-**8. On Chrome Browser, launch the Rails server.**
+**8. Launch the Rails server (best viewed on Chrome browser).**
 
 ```
 rails s -p 3000
 ```
 
-**9. On Chrome Browser, install and enable the [JSON formatter extension](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en).**
+**9. On Chrome browser, install and enable the [JSON formatter extension](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en).**
 
-**10. On Chrome Browser, view the JSON database on http://localhost:3000/items**
+**10. On Chrome browser, view the JSON database on http://localhost:3000/items**
 
 <!-- #
 
