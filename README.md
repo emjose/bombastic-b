@@ -11,14 +11,17 @@
 <a href=#table-of-contents>![Table of Contents](Assets/inter-toc.png)</a>
 
 -   [Background](#background)
+
 -   [Frontend Repo](#frontend-repo)
--   [Technologies](#technologies)
--   [Getting Started](#getting-started)
+<!-- -   [Technologies](#technologies)
+-   [Getting Started](#getting-started) -->
 -   [Installation](#installation)
--   [Features](#features)
--   [Domain Model](#domain-model)
+<!-- -   [Features](#features)
+-   [Domain Model](#domain-model) -->
 -   [Demos](#demos)
+
 -   [Copyright](#copyright)
+
 -   [Let's Connect!](#lets-connect)
 
 #
@@ -27,11 +30,11 @@
 
 <a href=#background>![Background](Assets/inter-background.png)</a>
 
--   lorem
+-   Bombastic is a mock e-commerce app inspired by the [Bombas](https://bombas.com/) apparel brand.
 
--   lorem
+-   Bombas has a one purchased, one donated business model.
 
--   lorem
+-   More README content to be added soon!
 
 #
 
@@ -39,13 +42,9 @@
 
 <a href=#frontend-repo>![Frontend Repo](Assets/inter-frontend-repo.png)</a>
 
--   lorem
+**[Bombastic Frontend Repo](https://github.com/emjose/bombastic-f/)**
 
--   lorem
-
--   lorem
-
-#
+<!-- #
 
 <p id="technologies"><p>
 
@@ -67,7 +66,7 @@
 
 -   lorem
 
--   lorem
+-   lorem -->
 
 #
 
@@ -81,16 +80,16 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-**2. Install [Ruby](https://www.ruby-lang.org/en/)**
+**2. Install [Ruby](https://www.ruby-lang.org/en/).**
 
 ```
-brew install Ruby.
+brew install Ruby
 ```
 
 **3. Install [Rails](https://rubyonrails.org/).**
 
 ```
-gem install Rails.
+gem install Rails
 ```
 
 **4. Install [PostgreSQL](https://www.postgresql.org/).**
@@ -119,13 +118,17 @@ rails db:migrate
 rails db:seed
 ```
 
-**8. Launch the rails server.**
+**8. On Chrome Browser, launch the Rails server.**
 
 ```
 rails s -p 3000
 ```
 
-#
+**9. On Chrome Browser, install and enable the [JSON formatter extension](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en).**
+
+**10. On Chrome Browser, view the JSON database on http://localhost:3000/items**
+
+<!-- #
 
 <p id="features"><p>
 
@@ -147,7 +150,7 @@ rails s -p 3000
 
 -   lorem
 
--   lorem
+-   lorem -->
 
 #
 
@@ -155,11 +158,7 @@ rails s -p 3000
 
 <a href=#demos>![Demos](Assets/inter-demos.png)</a>
 
--   lorem
-
--   lorem
-
--   lorem
+[YouTube video demo](https://youtu.be/qo_YDasFpkM)
 
 #
 
@@ -167,11 +166,9 @@ rails s -p 3000
 
 <a href=#copyright>![Copyright](Assets/inter-copyright.png)</a>
 
--   lorem
+-   This project is made for educational purposes only.
 
--   lorem
-
--   lorem
+-   Products and product images copyright of © [Bombas](https://bombas.com/). All Rights Reserved.
 
 #
 
