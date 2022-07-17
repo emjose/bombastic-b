@@ -43,7 +43,7 @@
 
 <a href=#technologies>![Technologies](Assets/inter-technologies.png)</a>
 
-**Bombastic Backend: [Repo](#technologies)**
+**Bombastic Backend**
 
 -   [Ruby](https://www.ruby-lang.org/en/)
 -   [Rails](https://rubyonrails.org/)
