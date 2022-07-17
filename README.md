@@ -34,7 +34,7 @@
 
 -   Bombas has a [one purchased, one donated](https://bombas.com/pages/giving-back?campignid=1392646001&adgroupid=54889553717&targetid=kwd-300272104456&matchtype=b&network=g&device=c&keywords=%2Bbombas&creative=597211240056&gclid=CjwKCAjww8mWBhABEiwAl6-2Rf62a6fGVfHkT6iwJzB0GyxsjRgync2nfUROlT1dQ8h1NNeeoFtGzRoCsHoQAvD_BwE) business model.
 
--   Bombastic implements the [Stripe API](https://stripe.com/docs/keys) for mock purchases.
+-   Bombastic implements the [Stripe API](https://stripe.com/docs/keys) for mock credit card purchases.
 
 -   **Backend:** Ruby and Rails
 
