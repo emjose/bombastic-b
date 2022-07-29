@@ -287,6 +287,15 @@ Would you like to run the app on another port instead? (Y/n)
 
 <a href=#domain-model>![Domain Model Chart](Assets/inter-domain.png)</a>
 
+<details>
+<summary>Click to expand Bombastic entity relationship diagram</summary>
+<br>
+
+<a href=#domain-model>![Bombastic Diagram](Assets/bombastic-diagram.png)</a>
+<sup>© [dbdiagram.io](https://dbdiagram.io/home)</sup>
+
+</details>
+
 <br>
 
 **Schema and Models**
