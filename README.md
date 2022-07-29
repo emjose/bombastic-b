@@ -201,25 +201,25 @@ git clone git@github.com:emjose/bombastic-f.git && cd bombastic-f
 
 -   **Paste this variable in the `.env` file. Assign it the value of your Stripe API key.**
 
-```
+```shell
 STRIPE_API_KEY = "insert your secret key here"
 ```
 
 -   **Install dependencies.**
 
-```
+```shell
 npm install
 ```
 
 -   **Launch the React app.**
 
-```
+```shell
 npm start
 ```
 
 -   **Enter "y" if prompted to run on another port.**
 
-```
+```shell
 Would you like to run the app on another port instead? (Y/n)
 ```
 
