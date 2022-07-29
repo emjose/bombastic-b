@@ -17,7 +17,7 @@
 -   [Prerequisites](#prerequisites)
 -   [Installation](#installation)
 -   [Demo & Features](#demo-and-features)
--   [Domain Model](#domain-model)
+-   [ER Diagram](#er-diagram)
 -   [Improvement](#improvement)
 -   [Resources](#resources)
 -   [Copyright](#copyright)
@@ -281,29 +281,27 @@ Would you like to run the app on another port instead? (Y/n)
 
 #
 
-<p id="domain-model"><p>
+<p id="er-diagram"><p>
 
-<a href=#domain-model>![Domain Model](Assets/inter-domain-model.png)</a>
+<a href=#er-diagram>![Domain Model](Assets/inter-er-diagram.png)</a>
 
-<a href=#domain-model>![Domain Model Chart](Assets/inter-domain.png)</a>
+<a href=#er-diagram>![Domain Model Chart](Assets/inter-domain.png)</a>
 
-**Entity Relationship Diagram**
+**Click below to expand diagram or table.**
 
 <details>
-<summary>Click to expand Bombastic diagram</summary>
+<summary>Entity-Relationship Diagram</summary>
 <br>
 
-<a href=#domain-model>![Bombastic Diagram](Assets/bombastic-diagram.png)</a>
+<a href=#er-diagram>![Bombastic Diagram](Assets/bombastic-diagram.png)</a>
 <sup>© [dbdiagram.io](https://dbdiagram.io/home)</sup>
 
 </details>
 
-<br>
-
-**Schema and Models**
+<!-- **Schema and Models**
 
 -   View [schema](https://github.com/emjose/bombastic-b/blob/main/db/schema.rb).
--   View [models](https://github.com/emjose/bombastic-b/tree/main/app/models) or click each model below.
+-   View [models](https://github.com/emjose/bombastic-b/tree/main/app/models) or click each model below. -->
 
 <details>
 <summary>CartJoiner</summary>
@@ -444,6 +442,7 @@ end
 -   #### [NPM](https://www.npmjs.com/)
 -   #### [Lucid.app](https://lucid.app/)
 -   #### [Adobe Fonts](https://fonts.adobe.com/)
+-   #### [dbdiagram.io](https://dbdiagram.io/home)
 -   #### [Google Fonts](https://fonts.google.com/)
 -   #### [Screencastify](https://www.screencastify.com/)
 -   #### [Adobe Photoshop](https://www.adobe.com/creativecloud/buy/students.html)
