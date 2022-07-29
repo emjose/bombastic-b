@@ -145,7 +145,7 @@ git clone git@github.com:emjose/bombastic-b.git && cd bombastic-b
 
 -   **Paste this variable in the `.env` file. Assign it the value of your Stripe API key.**
 
-```javascript
+```properties
 STRIPE_API_KEY = "insert your secret key here";
 ```
 
@@ -201,7 +201,7 @@ git clone git@github.com:emjose/bombastic-f.git && cd bombastic-f
 
 -   **Paste this variable in the `.env` file. Assign it the value of your Stripe API key.**
 
-```console
+```properties
 STRIPE_API_KEY = "insert your secret key here"
 ```
 
