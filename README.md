@@ -283,7 +283,7 @@ Would you like to run the app on another port instead? (Y/n)
 
 <p id="er-diagram"><p>
 
-<a href=#er-diagram>![Domain Model](Assets/inter-er-diagram.png)</a>
+<a href=#er-diagram>![ER Diagram](Assets/inter-er-diagram.png)</a>
 
 <a href=#er-diagram>![Domain Model Chart](Assets/inter-domain.png)</a>
 
@@ -293,7 +293,7 @@ Would you like to run the app on another port instead? (Y/n)
 <summary>Entity-Relationship Diagram</summary>
 <br>
 
-<a href=#er-diagram>![Bombastic Diagram](Assets/bombastic-diagram.png)</a>
+<a href=#er-diagram>![Bombastic ER Diagram](Assets/bombastic-diagram.png)</a>
 <sup>© [dbdiagram.io](https://dbdiagram.io/home)</sup>
 
 </details>
