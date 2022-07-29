@@ -287,8 +287,10 @@ Would you like to run the app on another port instead? (Y/n)
 
 <a href=#domain-model>![Domain Model Chart](Assets/inter-domain.png)</a>
 
+**Entity Relationship Diagram**
+
 <details>
-<summary>Click to expand Bombastic entity relationship diagram</summary>
+<summary>Click to expand Bombastic diagram</summary>
 <br>
 
 <a href=#domain-model>![Bombastic Diagram](Assets/bombastic-diagram.png)</a>
