@@ -130,6 +130,7 @@ brew install postgresql
 <details>
 <summary><b>Click to expand - Backend Installation:</b></summary>
 <br>
+<br>
 
 **1. Git clone and cd into the folder.**
 
@@ -204,6 +205,7 @@ rails s -p 3000
 
 <details>
 <summary><b>Click to expand - Frontend Installation:</b></summary>
+<br>
 <br>
 
 **[Bombastic Frontend Repo](https://github.com/emjose/bombastic-f/#bombastic)**
