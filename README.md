@@ -190,6 +190,8 @@ rails s -p 3000
 
 **8. On Chrome browser, view the JSON database locally at http://localhost:3000/items**
 
+<br>
+
 **Follow all Frontend Installation steps below.**
 
 <br>
@@ -207,6 +209,8 @@ rails s -p 3000
 **[Bombastic Frontend Repo](https://github.com/emjose/bombastic-f/#bombastic)**
 
 **Follow all Backend Installation steps above.**
+
+<br>
 
 **9. Git clone and cd into the folder.**
 
