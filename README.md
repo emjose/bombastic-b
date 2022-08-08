@@ -224,10 +224,10 @@ git clone git@github.com:emjose/bombastic-f.git && cd bombastic-f
 
 **10. Retrieve your [Stripe API key](https://stripe.com/docs/keys).**
 
-    -   Use the **Publishable**, client-side API key.
-    -   The **Publishable API key** has a prefix of **`pk_test`**.
+-   Use the **Publishable**, client-side API key.
+-   The **Publishable API key** has a prefix of **`pk_test`**.
 
-    <br>
+<br>
 
 **11. Create an `.env` file in the main project directory.**
 
